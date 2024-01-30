@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>p55</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>sw.Version</version-class>
+		<version-uid>cd</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>sw.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>sw.</value>
+	</library-property>
+	-->
+</zk>
